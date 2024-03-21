@@ -1,4 +1,17 @@
-# teach_myself_data_analysis
-The content of this repo contains all the code from learning Data Analysis via Teach Yourself Data Analysis in 30 days by David Clinton. 
-The Jupyter Notebooks might always deliver exactly the same results shown on the website. That is because the data continues to change.
+# Data Analysis with Pandas Repository.
+Welcome to my Data Analysis with Pandas Repository! This repository contains my practice exercises, lessons, and projects related to Data Analysis with Pandas. 
 
+# Table of Content
+* [Overview](#overview)
+* [Folder Structure](#folder-structure)
+
+
+# Folder Structure
+The repository is organized into the following main folders:
+
+* **exercises**: Contains Python scripts and Jupyter Notebooks with practice exercises.
+* **lessons**: Contains notes, summaries, and lessons learned from various learning resources.
+* **projects**: Includes folders for different projects or project categories.
+* **resources**: Includes reference to important resources such as career guide, interview tips, open data sources etc
+
+Feel free to navigate through the folders to explore the content based on your interests and learning objectives.
