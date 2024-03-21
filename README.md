@@ -1,5 +1,5 @@
 # Data Analysis with Pandas Repository.
-Welcome to my Data Analysis with Pandas Repository! This repository contains my practice exercises, lessons, and projects related to Data Analysis with Pandas. 
+Welcome to my Data Analysis with Pandas Repository! This repository contains my practice exercises, lessons, and projects related to Data Analysis with Python. 
 
 # Table of Content
 * [Overview](#overview)
